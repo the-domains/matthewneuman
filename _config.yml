@@ -1,0 +1,28 @@
+name: matthewneuman
+favicon: null
+layout_spectrum: 0.9681032311636955
+typography_spectrum: 0.1721696702297777
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.23946368182078004
+  lightness: 0.6307288384996355
+  saturation: 0.2507079199422151
+  rhythmicContrast: 0.25176939321681857
+purpose: []
