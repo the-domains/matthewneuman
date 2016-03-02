@@ -1,4 +1,4 @@
-name: matthewneuman
+name: OnMatthewsMind
 favicon: null
 layout_spectrum: 0.88366
 typography_spectrum: 0.76719
@@ -22,8 +22,8 @@ color:
     - '#9a9a9a'
     - '#424242'
     - '#676767'
-  brandStrength: 0.5
+  brandStrength: 0.625
   lightness: 0.6307288384996355
-  saturation: 0.3125
+  saturation: 0.4375
   rhythmicContrast: 0.25176939321681857
 purpose: []
